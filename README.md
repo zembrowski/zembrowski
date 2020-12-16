@@ -1,1 +1,1 @@
-🧰 Developing Tax Tools in Germany at [Recht logisch](https://github.com/rechtlogisch)
+🧰  Developing Tax Tools in Germany at [Recht logisch](https://github.com/rechtlogisch)
